@@ -1,0 +1,6 @@
+Sublime 2 (For windows)
+
+Navigate to the following link:
+http://www.sublimetext.com/2
+
+You'll notice several options under the Download Header 
