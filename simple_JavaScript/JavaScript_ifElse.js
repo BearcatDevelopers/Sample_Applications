@@ -1,9 +1,11 @@
-// If/Else conditional application
+/*// If/Else conditional application
+function namePrompt {
+    var name ("What is your name?", "MC Hammer");
 
-var favPlayer = "Octavius Ellis";
-
-if (favPlayer = "Octavius Ellis") {
-  return "Smart choice";
-} else {
-  return "You are a foolish Xavier fan and will be punished";
-};
+    if (name != null) {
+      document.getElementById('demo').innerHTML = "Hey there, " + name "! How ya doin?";
+    } else {
+      document.getElementsById("demo").innerHTML = "I'm sorry, didn't catch that.";
+    }
+}
+*/
