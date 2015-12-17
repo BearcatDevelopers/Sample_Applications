@@ -1,0 +1,66 @@
+Mac Text Editors:
+
+Main Mac Text Editors: 
+	Sublime - any
+	Atom - any
+	Text Wrangler - any
+	Eclipse - Java IDE
+	XCode - iOS development
+	Terminal (Nano and Vi) - any
+
+
+Sublime for Mac:
+	link: http://www.sublimetext.com/ 
+
+	Scroll down and click on the "Download for OS X" button
+ 		* This will begin download. Once downloaded, open the file and go through the mac installation process as usual
+
+Atom for Mac:
+	link: https://atom.io/
+
+	Click on the "Download for Mac" button
+		* This will begin download. Once downloaded, open the file and go through the mac installation process as usual
+
+
+TextWrangler for Mac (Similar to Notepad++ for Windows): 
+	link: http://www.barebones.com/products/textwrangler/download.html
+
+	Click on the "Download" button next to "Disk Image"
+		* This will begin the download. Once downloaded, open the file and go through the mac installation process as usual
+
+
+Eclipse: 
+	link: https://www.eclipse.org/downloads/?osType=macosx
+
+	Click on "Eclipse IDE for Java EE Developers"
+	Click on the giant orange "Download" button
+
+	Once the file is download, open it and go through the Mac installation process
+
+
+XCode:
+	XCode can be installed from the Mac App Store
+		Open the app store, and search for XCode
+		Install XCode from the app store
+			*This takes quite awhile
+
+
+If you want to go old school, nano and vi are text editors that can be used via the terminal application
+
+Nano:
+	Open your terminal application
+	To create a file, type this into the terminal:
+		nano filename.ext
+
+	To save your file:
+		Ctrl + X
+
+Vi: 
+	Open your terminal application
+		* Vi is much more complicated than nano so if your are new to this, it is recommended to start with nano
+
+	To create a file, type this into the terminal:
+		vi filename.ext
+
+	To save your file, type:
+		:x
