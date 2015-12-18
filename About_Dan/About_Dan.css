@@ -17,6 +17,16 @@ h3 {
   color: red;
 }
 
+h4 {
+  font-family: sans-serif;
+  color: red;
+}
+
+ul {
+  font-family: serif;
+  font-size: 18px;
+  color: white;
+}
 html {
   background-color: black;
 }
