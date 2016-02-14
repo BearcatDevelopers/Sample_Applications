@@ -1,19 +1,29 @@
 <HTML>
   <head>
-    <script src="arrays.js"></script>
+    <script src="https://dl.dropboxusercontent.com/u/59022220/arrays.js"></script>
   </head>
   <body>
-    <input type = "text" placeholder = "Enter data type" id = "inputs"/>
-    <input type="button" onclick = "addToArray2()" value = "Add to Array"/>
-    <input type="button" onclick = "clearDiv()" value = "Clear"/>
 
-    <br/><br/>
-    To Do List:
+    <input type = "text" placeholder = "Enter Task" id = "inputs"/>
+    <input type="button" onclick = "addToArray()" value = "Add to List"/>
+
+    <br/>
+    <br/>
+    <br/>
+
+    To Do List: <input type="button" onclick = "printArray()" value = "View List"/>
+
+    <br/>
+    <br/>
+
     <div id = "outputs">
 
-
-
     </div>
+
+    <br/>
+    <br/>
+
+    <input type="button" onclick = "removeFromDiv()" value = "Remove From List"/>
 
   </body>
 </HTML>
